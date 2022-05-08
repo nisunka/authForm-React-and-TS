@@ -1,0 +1,7 @@
+.auth-page {
+    height: 100vh;
+    background-image: url('./bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
